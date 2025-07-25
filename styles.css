@@ -113,6 +113,11 @@ img {
     margin-bottom: 10px;
 }
 
+.box img {
+    width: 100%;
+    height: auto;
+}
+
 .fbox {
     display: flex;
     flex-direction: column;
